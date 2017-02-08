@@ -1,1 +1,3 @@
 # hello-world
+Just finding my way through the brave new Github world
+Project info will follow when I found the way...
